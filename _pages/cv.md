@@ -19,13 +19,14 @@ Work experience
 ======
 * Summer 2014: Research Assistant
   * National University of Singapore
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Dr. Jin Song Dong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015 - 2017: Senior Staff Member
+  * People's Bank of China, Jinan Branch
+
+* 2017 - now: Research Assistant
+  * FRIENDS Lab, Purdue University
+  * Supervisor: Dr. Dongyan Xu
 
 <!--Skills-->
 <!--======-->
