@@ -86,7 +86,7 @@ author:
   location         : "West Lafayette"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-      googlescholar    : "http://https://scholar.google.com/citations?hl=en&user=Qepf8EMAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Qepf8EMAAAAJ"
   email            :
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
