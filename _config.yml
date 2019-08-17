@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jianliang Wu / Homepage"
 title_separator          : "-"
-name                     : &name "Jianliang"
+name                     : &name "Jianliang Wu"
 description              : &description "CS PhD student @ Purdue University"
 url                      : https://allenjlw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jianliang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "CS PhD student @ Purdue University"
   location         : "West Lafayette"
   employer         :
