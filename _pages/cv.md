@@ -26,7 +26,7 @@ Work experience
 
 * 2017 - now: Research Assistant
   * FRIENDS Lab, Purdue University
-  * Supervisor: Dr. Dongyan Xu
+  * Supervisor: Dr. Dongyan Xu and Dr. Antonio Bianchi
 
 <!--Skills-->
 <!--======-->
