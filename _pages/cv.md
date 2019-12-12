@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version of [CV](./resume.pdf)
+
 Education
 ======
 * B.S. Computer Science, Shandong University, 2012
