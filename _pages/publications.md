@@ -19,3 +19,5 @@ Zuo, Chaoshun, **Jianliang Wu**, and Shanqing Guo. "Automatically detecting ssl 
 ### [TrustFound: Towards a Formal Foundation for Model Checking Trusted Computing Platforms](https://link.springer.com/chapter/10.1007/978-3-319-06410-9_8)
 Bai, Guangdong, Jianan Hao, **Jianliang Wu**, Yang Liu, Zhenkai Liang, and Andrew Martin. "Trustfound: Towards a formal foundation for model checking trusted computing platforms." In International Symposium on Formal Methods (FM), pp. 110-126. Springer, Cham, 2014.
 
+# Discovered CVEs
+[CVE-2020-9770](https://support.apple.com/en-us/HT211102)
