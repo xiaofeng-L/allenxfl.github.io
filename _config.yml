@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jianliang Wu"
   avatar           : "profile.jpg"
-  bio              : "CS PhD student @ Purdue University"
+  bio              : "CS Ph.D student @ Purdue University"
   location         : "West Lafayette"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?hl=en&user=Qepf8EMAAAAJ"
-  email            :
+  email            : "wu1220 AT purdue.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
