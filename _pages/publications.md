@@ -20,4 +20,4 @@ Zuo, Chaoshun, **Jianliang Wu**, and Shanqing Guo. "Automatically detecting ssl 
 Bai, Guangdong, Jianan Hao, **Jianliang Wu**, Yang Liu, Zhenkai Liang, and Andrew Martin. "Trustfound: Towards a formal foundation for model checking trusted computing platforms." In International Symposium on Formal Methods (FM), pp. 110-126. Springer, Cham, 2014.
 
 # Discovered CVEs
-[CVE-2020-9770](https://support.apple.com/en-us/HT211102)
+iOS Bluetooth Low Energy [CVE-2020-9770](https://support.apple.com/en-us/HT211102)
