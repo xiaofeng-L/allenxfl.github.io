@@ -1,5 +1,5 @@
 ---
-title: "BLESA demo"
+title: "BLESA Demo"
 excerpt: "A short demo for BLESA against an Oura Ring."
 <!-- collection: portfolio -->
 ---
