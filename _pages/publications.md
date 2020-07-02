@@ -8,7 +8,7 @@ author_profile: true
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, Dongyan Xu. USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
 
 ### [BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks (to appear)]()
-**Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
+**Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
 
 ### [All your sessions are belong to us: Investigating authenticator leakage through backup channels on android](https://ieeexplore.ieee.org/abstract/document/7384230)
 Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and Shanqing Guo. In 2015 20th International Conference on Engineering of Complex Computer Systems (ICECCS), 2015.
