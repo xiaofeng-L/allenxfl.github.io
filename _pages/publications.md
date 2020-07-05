@@ -20,11 +20,11 @@ Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and S
 [[PDF]]((https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1179))
 
 **Automatically detecting ssl error-handling vulnerabilities in hybrid mobile web apps**  
-Chaoshun Zuo, **Jianliang Wu**, and Shanqing Guo. In Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS), pp. 591-596. ACM, 2015.
+Chaoshun Zuo, **Jianliang Wu**, and Shanqing Guo. In Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS), 2015.
 [[PDF]](https://dl.acm.org/citation.cfm?id=2714583)
 
 **TrustFound: Towards a Formal Foundation for Model Checking Trusted Computing Platforms**  
-Guangdong Bai, Jianan Hao, **Jianliang Wu**, Yang Liu, Zhenkai Liang, and Andrew Martin. In International Symposium on Formal Methods (FM), pp. 110-126. Springer, Cham, 2014.
+Guangdong Bai, Jianan Hao, **Jianliang Wu**, Yang Liu, Zhenkai Liang, and Andrew Martin. In International Symposium on Formal Methods (FM), 2014.
 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-06410-9_8)
 
 # Discovered CVEs
