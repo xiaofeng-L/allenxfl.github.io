@@ -15,11 +15,9 @@ author_profile: true
 Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and Shanqing Guo. In 2015 20th International Conference on Engineering of Complex Computer Systems (ICECCS), 2015.
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/7384230)
 
-
 ### PaddyFrog: systematically detecting confused deputy vulnerability in Android applications
 **Jianliang Wu**, Tingting Cui, Tao Ban, Shanqing Guo, and Lizhen Cui. Security and Communication Networks 8 (SCN), no. 13 (2015): 2338-2349.
 [[PDF]]((https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1179))
-
 
 ### Automatically detecting ssl error-handling vulnerabilities in hybrid mobile web apps
 Chaoshun Zuo, **Jianliang Wu**, and Shanqing Guo. In Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS), pp. 591-596. ACM, 2015.
