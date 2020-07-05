@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**
-
+**BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**  
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, Dongyan Xu. USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
 [[PDF]](https://github.com/allenjlw/allenjlw.github.io/blob/master/pdfpapers/blesa.pdf)[[DEMO]](https://allenjlw.github.io/portfolio/blesa_demo/)
 
