@@ -8,9 +8,9 @@ author_profile: true
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, Dongyan Xu. Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
 [[BibTex]]()[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blesa.pdf)[[Demo]](https://allenjlw.github.io/portfolio/blesa_demo/)
 
-**BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks (to appear)**<br/>
+**BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks**<br/>
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
-[[BibTex]]()[[PDF]]()
+[[BibTex]]()[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blueshield.pdf)
 
 **All your sessions are belong to us: Investigating authenticator leakage through backup channels on android**<br/>
 Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and Shanqing Guo. In 2015 20th International Conference on Engineering of Complex Computer Systems (ICECCS), 2015.
