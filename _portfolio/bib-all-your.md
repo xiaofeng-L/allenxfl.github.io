@@ -1,6 +1,7 @@
 ---
 title: 'All your sessions are belong to us: Investigating authenticator leakage through backup channels on android'
-permalink: /posts/allyoursessions/
+excerpt: "A short demo for BLESA against an Oura Ring."
+<!-- collection: portfolio -->
 ---
 
 <pre>
