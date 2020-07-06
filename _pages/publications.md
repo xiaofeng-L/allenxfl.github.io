@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**<br/>
-**Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, Dongyan Xu. USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
-[[BibTex]]()[[PDF]](https://github.com/allenjlw/allenjlw.github.io/blob/master/pdfpapers/blesa.pdf)[[Demo]](https://allenjlw.github.io/portfolio/blesa_demo/)
+**Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, Dongyan Xu. Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
+[[BibTex]]()[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blesa.pdf)[[Demo]](https://allenjlw.github.io/portfolio/blesa_demo/)
 
 **BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks (to appear)**<br/>
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
