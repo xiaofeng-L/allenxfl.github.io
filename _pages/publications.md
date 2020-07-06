@@ -10,6 +10,7 @@ author_profile: true
 
 **BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks (to appear)**<br/>
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
+[[BibTex]]()[[PDF]]()
 
 **All your sessions are belong to us: Investigating authenticator leakage through backup channels on android**<br/>
 Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and Shanqing Guo. In 2015 20th International Conference on Engineering of Complex Computer Systems (ICECCS), 2015.
@@ -17,11 +18,11 @@ Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and S
 
 **PaddyFrog: systematically detecting confused deputy vulnerability in Android applications**<br/>
 **Jianliang Wu**, Tingting Cui, Tao Ban, Shanqing Guo, and Lizhen Cui. Security and Communication Networks 8 (SCN), no. 13 (2015): 2338-2349.
-[[PDF]]((https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1179))
+[[BibTex]](https://allenjlw.github.io/portfolio/bib-paddyfrog/)[[PDF]]((https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1179))
 
-**Automatically detecting ssl error-handling vulnerabilities in hybrid mobile web apps**<br/>
+**Automatically Detecting Ssl Error-Handling Vulnerabilities in Hybrid Mobile Web Apps**<br/>
 Chaoshun Zuo, **Jianliang Wu**, and Shanqing Guo. In Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS), 2015.
-[[PDF]](https://dl.acm.org/citation.cfm?id=2714583)
+[[BibTex]](https://allenjlw.github.io/portfolio/bib-ssl-error/)[[PDF]](https://dl.acm.org/citation.cfm?id=2714583)
 
 **TrustFound: Towards a Formal Foundation for Model Checking Trusted Computing Platforms**<br/>
 Guangdong Bai, Jianan Hao, **Jianliang Wu**, Yang Liu, Zhenkai Liang, and Andrew Martin. In International Symposium on Formal Methods (FM), 2014.
