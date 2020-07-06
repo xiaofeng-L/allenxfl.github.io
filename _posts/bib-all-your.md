@@ -1,6 +1,6 @@
 ---
 title: 'All your sessions are belong to us: Investigating authenticator leakage through backup channels on android'
-permalink: /bibs/allyoursessions/
+permalink: /posts/allyoursessions/
 ---
 
 <pre>
