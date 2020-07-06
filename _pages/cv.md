@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version of [CV](https://docs.google.com/viewer?url=https://github.com/allenjlw/allenjlw.github.io/raw/master/_pages/resume.pdf)
+PDF version of [CV](https://github.com/allenjlw/allenjlw.github.io/raw/master/cv.pdf)
 
 Education
 ======
