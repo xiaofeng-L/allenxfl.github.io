@@ -15,7 +15,7 @@ Education
 ======
 * B.S. Computer Science, Shandong University, 2012
 * M.S. Computer Science, Shandong University, 2015
-* Ph.D Computer Science, Purdue University, 2022 (expected)
+* Ph.D. Computer Science, Purdue University, 2022 (expected)
 
 Work experience
 ======
