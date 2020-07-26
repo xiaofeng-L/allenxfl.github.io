@@ -1,6 +1,6 @@
 ---
 title: "BibTex"
-excerpt: "All Your Sessions Are Belong to Us: Investigating Authenticator Leakage Through Backup Channels on Android"
+excerpt: "BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy"
 <!-- collection: portfolio -->
 ---
 
