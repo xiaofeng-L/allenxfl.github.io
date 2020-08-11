@@ -14,7 +14,8 @@ author_profile: true
 
 **All your sessions are belong to us: Investigating authenticator leakage through backup channels on android**<br/>
 Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and Shanqing Guo. In 2015 20th International Conference on Engineering of Complex Computer Systems (ICECCS), 2015.
-[[BibTex]](https://allenjlw.github.io/portfolio/bib-all-your/)[[PDF]](https://ieeexplore.ieee.org/abstract/document/7384230)
+[[BibTex]](https://allenjlw.github.io/portfolio/bib-all-your/)[[PDF]](https://ieeexplore.ieee.org/abstract/document/7384230)<br/>
+<span style="color:red">Best Paper Award</span>
 
 **PaddyFrog: systematically detecting confused deputy vulnerability in Android applications**<br/>
 **Jianliang Wu**, Tingting Cui, Tao Ban, Shanqing Guo, and Lizhen Cui. Security and Communication Networks 8 (SCN), no. 13 (2015): 2338-2349.
