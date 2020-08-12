@@ -19,6 +19,10 @@ Education
 
 Work experience
 ======
+* 2012 - 2015: Research Assistant
+  * Shandong University
+  * Supervisor: Dr. Shanqing Guo
+
 * Summer 2014: Research Assistant
   * National University of Singapore
   * Supervisor: Dr. Jin Song Dong
@@ -27,7 +31,7 @@ Work experience
   * People's Bank of China, Jinan Branch
 
 * 2017 - now: Research Assistant
-  * FRIENDS Lab, Purdue University
+  * PurSec Lab, Purdue University
   * Supervisor: Dr. Dongyan Xu and Dr. Antonio Bianchi
 
 <!--Skills-->
