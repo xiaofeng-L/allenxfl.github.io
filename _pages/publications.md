@@ -19,7 +19,7 @@ Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and S
 <span style="color:red">Best Paper Award</span>
 
 **PaddyFrog: systematically detecting confused deputy vulnerability in Android applications**<br/>
-**Jianliang Wu**, Tingting Cui, Tao Ban, Shanqing Guo, and Lizhen Cui. Security and Communication Networks 8 (SCN), no. 13 (2015): 2338-2349.
+**Jianliang Wu**, Tingting Cui, Tao Ban, Shanqing Guo, and Lizhen Cui. Security and Communication Networks (SCN), vol. 8 no. 13 (2015): 2338-2349.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-paddyfrog/)[[PDF]]((https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1179))
 
 **Automatically Detecting Ssl Error-Handling Vulnerabilities in Hybrid Mobile Web Apps**<br/>
