@@ -46,4 +46,4 @@ News Report<br/>
 [[cnBeta]](https://www.cnbeta.com/articles/tech/1030087.htm)
 [[安全内参]](https://www.secrss.com/articles/25770) and many more.
 
-Exploiting Cross-Transport Key Derivation [CVE-2020-15802](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/blurtooth/)
+Exploiting Cross-Transport Key Derivation between Bluetooth BR/EDR and BLE [CVE-2020-15802](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/blurtooth/)
