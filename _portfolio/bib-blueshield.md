@@ -14,7 +14,7 @@ isbn = {978-1-939133-18-2},
 address = {San Sebastian},
 pages = {397--411},
 url = {https://www.usenix.org/conference/raid2020/presentation/wu},
-publisher = {{USENIX} Association},
+publisher = {USENIX Association},
 month = oct,
 }
 </pre>
