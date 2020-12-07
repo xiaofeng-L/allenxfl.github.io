@@ -32,7 +32,7 @@ Guangdong Bai, Jianan Hao, **Jianliang Wu**, Yang Liu, Zhenkai Liang, and Andrew
 
 # Discovered CVEs
 BLESA on iOS Bluetooth Low Energy [CVE-2020-9770](https://support.apple.com/en-us/HT211102)<br/>
-News Report<br/>
+Media Coverage<br/>
 [[ZDNet]](https://www.zdnet.com/article/billions-of-devices-vulnerable-to-new-blesa-bluetooth-security-flaw/)
 [[Security Boulevard]](https://securityboulevard.com/2020/07/bluetooth-reconnection-flaw-could-lead-to-spoofing-attacks/)
 [[Threatpost]](https://threatpost.com/bluetooth-spoofing-bug-iot-devices/159291/) 
