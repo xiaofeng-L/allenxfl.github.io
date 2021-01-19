@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks (to appear)**<br/>
-**Jianliang Wu**, Ruoyu Wu, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, Antonio Bianchi. In Proceedings of the 30th USENIX Security Symposium (Security), 2021
+**Jianliang Wu\***, Ruoyu Wu\*, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, Antonio Bianchi. In Proceedings of the 30th USENIX Security Symposium (Security), 2021
 
 **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**<br/>
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, Dongyan Xu. In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
@@ -13,7 +13,7 @@ author_profile: true
 <span style="color:red">Best Paper Award &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSAW'20 Applied Research Competition Finalist</span>
 
 **BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks**<br/>
-**Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
+**Jianliang Wu\***, Yuhong Nan\*, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-blueshield/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blueshield.pdf)[[Talk]](https://drive.google.com/file/d/1KdSBdKegcp-RJUT8POBcVS4pI1n1NJbE/view?usp=sharing)
 
 **All your sessions are belong to us: Investigating authenticator leakage through backup channels on android**<br/>
