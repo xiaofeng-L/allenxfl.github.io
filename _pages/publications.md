@@ -4,8 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks (to appear)**<br/>
+**LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks**<br/>
 **Jianliang Wu\***, Ruoyu Wu\*, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, Antonio Bianchi. In Proceedings of the 30th USENIX Security Symposium (Security), 2021
+[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/lightblue.pdf)<br/>
 
 **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**<br/>
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, Dongyan Xu. In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
