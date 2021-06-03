@@ -51,3 +51,5 @@ Media Coverage<br/>
 [[安全内参]](https://www.secrss.com/articles/25770) and many more.
 
 Exploiting Cross-Transport Key Derivation between Bluetooth BR/EDR and BLE [CVE-2020-15802](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/blurtooth/)
+
+Impersonation Attack in Bluetooth Mesh Provisioning [CVE-2020-26560](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/impersonation-mesh/)
