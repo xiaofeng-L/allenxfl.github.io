@@ -12,7 +12,7 @@ author_profile: true
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, Dongyan Xu. In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-blesa/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blesa.pdf)[[Demo]](https://allenjlw.github.io/portfolio/blesa_demo/)[[Talk]](https://drive.google.com/file/d/134GHlTL9OGIACa7chBGeg5EuCR7MoFOq/view?usp=sharing)<br/>
 <span style="color:red">Best Paper Award &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSAW'20 Applied Research Competition Finalist</span><br/>
-Media Coverage<br/>
+**Media Coverage:**
 [[ZDNet]](https://www.zdnet.com/article/billions-of-devices-vulnerable-to-new-blesa-bluetooth-security-flaw/)
 [[Security Boulevard]](https://securityboulevard.com/2020/07/bluetooth-reconnection-flaw-could-lead-to-spoofing-attacks/)
 [[Threatpost]](https://threatpost.com/bluetooth-spoofing-bug-iot-devices/159291/) 
