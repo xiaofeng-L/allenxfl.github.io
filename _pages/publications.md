@@ -11,7 +11,20 @@ author_profile: true
 **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**<br/>
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, Dongyan Xu. In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-blesa/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blesa.pdf)[[Demo]](https://allenjlw.github.io/portfolio/blesa_demo/)[[Talk]](https://drive.google.com/file/d/134GHlTL9OGIACa7chBGeg5EuCR7MoFOq/view?usp=sharing)<br/>
-<span style="color:red">Best Paper Award &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSAW'20 Applied Research Competition Finalist</span>
+<span style="color:red">Best Paper Award &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSAW'20 Applied Research Competition Finalist</span><br/>
+Media Coverage<br/>
+[[ZDNet]](https://www.zdnet.com/article/billions-of-devices-vulnerable-to-new-blesa-bluetooth-security-flaw/)
+[[Security Boulevard]](https://securityboulevard.com/2020/07/bluetooth-reconnection-flaw-could-lead-to-spoofing-attacks/)
+[[Threatpost]](https://threatpost.com/bluetooth-spoofing-bug-iot-devices/159291/) 
+[[AppleInsider]](https://appleinsider.com/articles/20/09/17/blesa-bluetooth-vulnerability-impacts-billions-of-devices-but-ios-users-are-safe)
+[[ITSecurityWire]](https://itsecuritywire.com/quick-bytes/blesa-bluetooth-security-flaw-could-affect-billions-of-devices/)
+[[Digital Information World]](https://www.digitalinformationworld.com/2020/09/the-new-blesa-bluetooth-security-flaw-can-keep-billions-of-devices-vulnerable.html)
+[[Bitdefender]](https://www.bitdefender.com/box/blog/iot-news/new-blesa-bluetooth-vulnerability-affect-billions-iot-devices-researchers-warn/)
+[[Dazeinfo]](https://dazeinfo.com/2020/09/17/bluetooth-vulnerability-blesa-devices-rick/)
+[[Tom's Guide]](https://www.tomsguide.com/news/blesa-bluetooth-attack)
+[[Myce.com]](https://www.myce.com/news/blesa-bluetooth-flaw-affects-iot-devices-94440/)
+[[cnBeta]](https://www.cnbeta.com/articles/tech/1030087.htm)
+[[安全内参]](https://www.secrss.com/articles/25770) and many more.
 
 **BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks**<br/>
 **Jianliang Wu\***, Yuhong Nan\*, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
@@ -35,20 +48,7 @@ Guangdong Bai, Jianan Hao, **Jianliang Wu**, Yang Liu, Zhenkai Liang, and Andrew
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-trustfound/)[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-06410-9_8)
 
 # Discovered CVEs
-BLESA on iOS Bluetooth Low Energy [CVE-2020-9770](https://support.apple.com/en-us/HT211102)<br/>
-Media Coverage<br/>
-[[ZDNet]](https://www.zdnet.com/article/billions-of-devices-vulnerable-to-new-blesa-bluetooth-security-flaw/)
-[[Security Boulevard]](https://securityboulevard.com/2020/07/bluetooth-reconnection-flaw-could-lead-to-spoofing-attacks/)
-[[Threatpost]](https://threatpost.com/bluetooth-spoofing-bug-iot-devices/159291/) 
-[[AppleInsider]](https://appleinsider.com/articles/20/09/17/blesa-bluetooth-vulnerability-impacts-billions-of-devices-but-ios-users-are-safe)
-[[ITSecurityWire]](https://itsecuritywire.com/quick-bytes/blesa-bluetooth-security-flaw-could-affect-billions-of-devices/)
-[[Digital Information World]](https://www.digitalinformationworld.com/2020/09/the-new-blesa-bluetooth-security-flaw-can-keep-billions-of-devices-vulnerable.html)
-[[Bitdefender]](https://www.bitdefender.com/box/blog/iot-news/new-blesa-bluetooth-vulnerability-affect-billions-iot-devices-researchers-warn/)
-[[Dazeinfo]](https://dazeinfo.com/2020/09/17/bluetooth-vulnerability-blesa-devices-rick/)
-[[Tom's Guide]](https://www.tomsguide.com/news/blesa-bluetooth-attack)
-[[Myce.com]](https://www.myce.com/news/blesa-bluetooth-flaw-affects-iot-devices-94440/)
-[[cnBeta]](https://www.cnbeta.com/articles/tech/1030087.htm)
-[[安全内参]](https://www.secrss.com/articles/25770) and many more.
+BLESA on iOS Bluetooth Low Energy [CVE-2020-9770](https://support.apple.com/en-us/HT211102)
 
 Exploiting Cross-Transport Key Derivation between Bluetooth BR/EDR and BLE [CVE-2020-15802](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/blurtooth/)
 
