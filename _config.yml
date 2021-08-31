@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jianliang Wu / Homepage"
 title_separator          : "-"
 name                     : &name "Jianliang Wu"
-description              : &description "CS Ph.D. student @ Purdue University"
+description              : &description "CS Ph.D. candidate @ Purdue University"
 url                      : https://allenjlw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "allenjlw/allenjlw.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianliang Wu"
+  name             : "Jianliang Wu (武建亮)"
   avatar           : "profile.jpg"
-  bio              : "CS Ph.D. student @ Purdue University"
+  bio              : "CS Ph.D. candidate @ Purdue University"
   location         : "West Lafayette"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
