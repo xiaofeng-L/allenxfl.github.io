@@ -9,13 +9,13 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
     
-  # - title: "Demos"
-  #   url: /portfolio/
+  - title: "Discovered CVEs"
+    url: /cves/
         
-  - title: "Services"
+  - title: "Professional Services"
     url: /service/
     
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /cv/
     
   #- title: "Guide"

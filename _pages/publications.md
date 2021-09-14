@@ -47,9 +47,3 @@ Chaoshun Zuo, **Jianliang Wu**, and Shanqing Guo. In Proceedings of the 10th ACM
 Guangdong Bai, Jianan Hao, **Jianliang Wu**, Yang Liu, Zhenkai Liang, and Andrew Martin. In International Symposium on Formal Methods (FM), 2014.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-trustfound/)[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-06410-9_8)
 
-# Discovered CVEs
-BLESA on iOS Bluetooth Low Energy [CVE-2020-9770](https://support.apple.com/en-us/HT211102)
-
-Exploiting Cross-Transport Key Derivation between Bluetooth BR/EDR and BLE [CVE-2020-15802](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/blurtooth/)
-
-Impersonation Attack in Bluetooth Mesh Provisioning [CVE-2020-26560](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/impersonation-mesh/)
