@@ -4,31 +4,33 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+**Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities**<br/>
+**Jianliang Wu**, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the 43rd IEEE Symposium on Security and Privacy (S&P), 2022
+[[BibTex]]()[[PDF]]()[[Code]]()<br/>
+
 **ProFactory: Improving IoT Security via Formalized Protocol Customization**<br/>
-Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu, Mathias Payer. In Proceedings of the 31th USENIX Security Symposium (Security), 2022
+Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu, and Mathias Payer. In Proceedings of the 31st USENIX Security Symposium (Security), 2022
 [[BibTex]]()[[PDF]]()<br/>
 
 **LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks**<br/>
-**Jianliang Wu\***, Ruoyu Wu\*, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, Antonio Bianchi. In Proceedings of the 30th USENIX Security Symposium (Security), 2021
+**Jianliang Wu\***, Ruoyu Wu\*, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the 30th USENIX Security Symposium (Security), 2021
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-lightblue/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/lightblue.pdf)<br/>
 
 **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**<br/>
-**Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, Dongyan Xu. In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
+**Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, and Dongyan Xu. In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-blesa/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blesa.pdf)[[Demo]](https://allenjlw.github.io/portfolio/blesa_demo/)[[Talk]](https://drive.google.com/file/d/134GHlTL9OGIACa7chBGeg5EuCR7MoFOq/view?usp=sharing)<br/>
 <span style="color:red">Best Paper Award &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSAW'20 Applied Research Competition Finalist</span><br/>
 **Media Coverage:**
 [[ZDNet]](https://www.zdnet.com/article/billions-of-devices-vulnerable-to-new-blesa-bluetooth-security-flaw/)
 [[Security Boulevard]](https://securityboulevard.com/2020/07/bluetooth-reconnection-flaw-could-lead-to-spoofing-attacks/)
-[[Threatpost]](https://threatpost.com/bluetooth-spoofing-bug-iot-devices/159291/) 
+[[Threatpost]](https://threatpost.com/bluetooth-spoofing-bug-iot-devices/159291/)
 [[AppleInsider]](https://appleinsider.com/articles/20/09/17/blesa-bluetooth-vulnerability-impacts-billions-of-devices-but-ios-users-are-safe)
 [[ITSecurityWire]](https://itsecuritywire.com/quick-bytes/blesa-bluetooth-security-flaw-could-affect-billions-of-devices/)
 [[Digital Information World]](https://www.digitalinformationworld.com/2020/09/the-new-blesa-bluetooth-security-flaw-can-keep-billions-of-devices-vulnerable.html)
 [[Bitdefender]](https://www.bitdefender.com/box/blog/iot-news/new-blesa-bluetooth-vulnerability-affect-billions-iot-devices-researchers-warn/)
 [[Dazeinfo]](https://dazeinfo.com/2020/09/17/bluetooth-vulnerability-blesa-devices-rick/)
 [[Tom's Guide]](https://www.tomsguide.com/news/blesa-bluetooth-attack)
-[[Myce.com]](https://www.myce.com/news/blesa-bluetooth-flaw-affects-iot-devices-94440/)
-[[cnBeta]](https://www.cnbeta.com/articles/tech/1030087.htm)
-[[安全内参]](https://www.secrss.com/articles/25770) and many more.
+[[Myce.com]](https://www.myce.com/news/blesa-bluetooth-flaw-affects-iot-devices-94440/) and many more.
 
 **BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks**<br/>
 **Jianliang Wu\***, Yuhong Nan\*, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
