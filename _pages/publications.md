@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities**<br/>
 **Jianliang Wu**, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the 43rd IEEE Symposium on Security and Privacy (S&P), 2022
-[[BibTex]]()[[PDF]]()[[Code]]()<br/>
+[[BibTex]]()[[PDF]]()[[Talk]]()[[Code]]()<br/>
 
 **ProFactory: Improving IoT Security via Formalized Protocol Customization**<br/>
 Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu, and Mathias Payer. In Proceedings of the 31st USENIX Security Symposium (Security), 2022
