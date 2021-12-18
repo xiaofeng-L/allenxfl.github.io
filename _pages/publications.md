@@ -34,7 +34,7 @@ Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu,
 
 **BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks**<br/>
 **Jianliang Wu\***, Yuhong Nan\*, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
-[[BibTex]](https://allenjlw.github.io/portfolio/bib-blueshield/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blueshield.pdf)[[Talk]](https://allenjlw.github.io/talks/blueshield_talk/)
+[[BibTex]](https://allenjlw.github.io/portfolio/bib-blueshield/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blueshield.pdf)[[Talk]](https://allenjlw.github.io/talks/blueshield_talk/)[[Code]](https://github.com/allenjlw/BlueShield)
 
 **All your sessions are belong to us: Investigating authenticator leakage through backup channels on android**<br/>
 Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and Shanqing Guo. In 2015 20th International Conference on Engineering of Complex Computer Systems (ICECCS), 2015.

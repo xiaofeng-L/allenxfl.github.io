@@ -7,7 +7,7 @@ excerpt: "BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy Network
 <pre>
 @inproceedings {259723,
 author = {Jianliang Wu and Yuhong Nan and Vireshwar Kumar and Mathias Payer and Dongyan Xu},
-title = {BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy Networks},
+title = { {BlueShield}: Detecting Spoofing Attacks in Bluetooth Low Energy Networks},
 booktitle = {23rd International Symposium on Research in Attacks, Intrusions and Defenses ({RAID} 2020)},
 year = {2020},
 isbn = {978-1-939133-18-2},
