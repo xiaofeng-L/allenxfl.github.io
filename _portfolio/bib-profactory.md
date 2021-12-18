@@ -6,7 +6,7 @@ excerpt: "ProFactory: Improving IoT Security via Formalized Protocol Customizati
 
 <pre>
 @inproceedings {277208,
-title = {{ProFactory}: Improving {IoT} Security via Formalized Protocol Customization},
+title = { {ProFactory}: Improving {IoT} Security via Formalized Protocol Customization},
 booktitle = {31st USENIX Security Symposium (USENIX Security 22)},
 year = {2022},
 address = {Boston, MA},
