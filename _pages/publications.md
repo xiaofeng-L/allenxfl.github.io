@@ -10,7 +10,7 @@ author_profile: true
 
 **ProFactory: Improving IoT Security via Formalized Protocol Customization**<br/>
 Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu, and Mathias Payer. In Proceedings of the 31st USENIX Security Symposium (Security), 2022
-[[BibTex]]()[[PDF]]()<br/>
+[[BibTex]](https://allenjlw.github.io/portfolio/bib-profactory/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/profactory.pdf)<br/>
 
 **LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks**<br/>
 **Jianliang Wu\***, Ruoyu Wu\*, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the 30th USENIX Security Symposium (Security), 2021
