@@ -1,3 +1,10 @@
+---
+title: "BibTex"
+excerpt: "Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities"
+<!-- collection: portfolio -->
+---
+
+<pre>
 @INPROCEEDINGS {,
 author = {J. Wu and R. Wu and D. Xu and D. Tian and A. Bianchi},
 booktitle = {2022 IEEE Symposium on Security and Privacy (SP)},
@@ -13,3 +20,4 @@ publisher = {IEEE Computer Society},
 address = {Los Alamitos, CA, USA},
 month = {may}
 }
+</pre>
