@@ -11,6 +11,7 @@ CSAW Applied Research Competition, 2021
 
 Reviewer
 ======
+IEEE Transactions on Dependable and Secure Computing, 2022 <br/>
 IEEE Network Magazine, 2021 <br/>
 Computer Networks, 2021
 
