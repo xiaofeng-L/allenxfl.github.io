@@ -4,19 +4,19 @@ main:
     url: /publications/
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/
 
-  # - title: "Teaching"
-  #   url: /teaching/
-    
   - title: "Discovered CVEs"
     url: /cves/
-        
+
   - title: "Professional Services"
     url: /service/
-    
+
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Curriculum Vitae"
     url: /cv/
-    
+
   #- title: "Guide"
   #  url: /markdown/
