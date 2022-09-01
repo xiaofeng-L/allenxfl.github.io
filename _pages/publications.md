@@ -14,7 +14,7 @@ Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu,
 
 **LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks**<br/>
 **Jianliang Wu\***, Ruoyu Wu\*, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the 30th USENIX Security Symposium (Security), 2021
-[[BibTex]](https://allenjlw.github.io/portfolio/bib-lightblue/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/lightblue.pdf)[[Talk]](https://allenjlw.github.io/talks/lightblue_talk/)[[Code]](https://github.com/purseclab/lightblue)<br/>
+[[BibTex]](https://allenjlw.github.io/portfolio/bib-lightblue/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/lightblue.pdf)[[Talk]](https://allenjlw.github.io/talks/lightblue_talk/)[[Code]](https://github.com/purseclab/lightblue)[[Poster]](https://raw.githubusercontent.com/allenjlw/allenjlw.github.io/master/pdfpapers/lbposter.pdf)<br/>
 
 **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**<br/>
 **Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, and Dongyan Xu. In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
