@@ -7,8 +7,8 @@ excerpt: "ProFactory: Improving IoT Security via Formalized Protocol Customizati
 <pre>
 @inproceedings {277208,
 	author = {Fei Wang and Jianliang Wu and Yuhong Nan and Yousra Aafer and Xiangyu Zhang and Dongyan Xu and Mathias Payer},
-	title = {{ProFactory}: Improving {IoT} Security via Formalized Protocol Customization},
-	booktitle = {31st USENIX Security Symposium (USENIX Security 22)},
+	title = { {ProFactory}: Improving {IoT} Security via Formalized Protocol Customization},
+	booktitle = {31st USENIX Security Symposium ({USENIX} Security 22)},
 	year = {2022},
 	isbn = {978-1-939133-31-1},
 	address = {Boston, MA},
