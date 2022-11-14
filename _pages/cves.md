@@ -5,7 +5,7 @@ permalink: /cves/
 author_profile: true
 ---
 
-BLE privacy issue [CVE-2021-39673](https://source.android.com/docs/security/bulletin/2022-10-01), awarded $5,000.
+BLE privacy issue [CVE-2021-39673](https://source.android.com/docs/security/bulletin/2022-10-01), awarded $5,000 bug bounty.
 
 BLESA on iOS Bluetooth Low Energy [CVE-2020-9770](https://support.apple.com/en-us/HT211102)
 
