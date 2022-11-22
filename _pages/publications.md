@@ -4,6 +4,10 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+**Are You Spying on Me? Large‑Scale Analysis on IoT Data Exposure through Companion Apps**<br/>
+Yuhong Nan, Xueqiang Wang, Luyi Xing, Xiaojing Liao, Ruoyu Wu, **Jianliang Wu**, Yifan Zhang, and XiaoFeng Wang. In Proceedings of the 32nd USENIX Security Symposium (Security), 2023
+[[BibTex]](https://allenjlw.github.io/portfolio/bib-iotprofiler/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/iotprofiler.pdf)<br/>
+
 **Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities**<br/>
 **Jianliang Wu**, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the 43rd IEEE Symposium on Security and Privacy (S&P), 2022
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-btverif/)[[PDF]](https://raw.githubusercontent.com/allenjlw/allenjlw.github.io/master/pdfpapers/btverif.pdf)[[Teaser Talk]](https://www.youtube.com/watch?v=ETXDSytyJzA&list=PL0pRF4xvoD0kDG7jJ6-muUa_Mj8wH-7kp&index=62)[[Full Talk]]()[[Code]](https://github.com/purseclab/btmodel_proverif)<br/>
