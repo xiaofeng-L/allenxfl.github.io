@@ -10,4 +10,4 @@ author_profile: true
 Invited by Dr. Antonio Bianchi, 2022
 
 **IoT/CPS Security**<br/>
-Invited by Dr. Dr. Z. Berkay Celik, 2022
+Invited by Dr. Z. Berkay Celik, 2022
