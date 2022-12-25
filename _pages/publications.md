@@ -17,7 +17,7 @@ Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu,
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-profactory/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/profactory.pdf)<br/>
 
 **LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks**<br/>
-**Jianliang Wu\***, Ruoyu Wu\*, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the 30th USENIX Security Symposium (Security), 2021
+**Jianliang Wu**, Ruoyu Wu, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the 30th USENIX Security Symposium (Security), 2021
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-lightblue/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/lightblue.pdf)[[Talk]](https://allenjlw.github.io/talks/lightblue_talk/)[[Code]](https://github.com/purseclab/lightblue)[[Poster]](https://raw.githubusercontent.com/allenjlw/allenjlw.github.io/master/pdfpapers/lbposter.pdf)<br/>
 
 **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**<br/>
@@ -37,7 +37,7 @@ Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu,
 [[Myce.com]](https://www.myce.com/news/blesa-bluetooth-flaw-affects-iot-devices-94440/) and many more.
 
 **BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks**<br/>
-**Jianliang Wu\***, Yuhong Nan\*, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
+**Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-blueshield/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blueshield.pdf)[[Talk]](https://allenjlw.github.io/talks/blueshield_talk/)[[Code]](https://github.com/allenjlw/BlueShield)
 
 **All your sessions are belong to us: Investigating authenticator leakage through backup channels on android**<br/>
