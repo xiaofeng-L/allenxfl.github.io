@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ## Guest lecture
-**Software Security**<br/>
+**Software Security** (Undergraduate level)<br/>
+Invited by Dr. Antonio Bianchi, 2022
+
+**Software Security** (Graduate level)<br/>
 Invited by Dr. Antonio Bianchi, 2022
 
 **IoT/CPS Security**<br/>
