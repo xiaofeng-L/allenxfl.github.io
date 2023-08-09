@@ -4,20 +4,24 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+**SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth (To appear)**<br/>
+**Jianliang Wu**, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the IEEE Symposium on Security and Privacy (S&P), 2024
+[[BibTex]]()[[PDF]]()<br/>
+
 **Are You Spying on Me? Large‑Scale Analysis on IoT Data Exposure through Companion Apps**<br/>
-Yuhong Nan, Xueqiang Wang, Luyi Xing, Xiaojing Liao, Ruoyu Wu, **Jianliang Wu**, Yifan Zhang, and XiaoFeng Wang. In Proceedings of the 32nd USENIX Security Symposium (Security), 2023
+Yuhong Nan, Xueqiang Wang, Luyi Xing, Xiaojing Liao, Ruoyu Wu, **Jianliang Wu**, Yifan Zhang, and XiaoFeng Wang. In Proceedings of the USENIX Security Symposium (Security), 2023
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-iotprofiler/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/iotprofiler.pdf)<br/>
 
 **Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities**<br/>
-**Jianliang Wu**, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the 43rd IEEE Symposium on Security and Privacy (S&P), 2022
+**Jianliang Wu**, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the IEEE Symposium on Security and Privacy (S&P), 2022
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-btverif/)[[PDF]](https://raw.githubusercontent.com/allenjlw/allenjlw.github.io/master/pdfpapers/btverif.pdf)[[Teaser Talk]](https://www.youtube.com/watch?v=ETXDSytyJzA&list=PL0pRF4xvoD0kDG7jJ6-muUa_Mj8wH-7kp&index=62)[[Full Talk]]()[[Code]](https://github.com/purseclab/btmodel_proverif)[[Attack Demo]](https://drive.google.com/file/d/1-o6WtUqJ0GHhWsHmlwKy5b5_t8_zEMnZ/view)<br/>
 
 **ProFactory: Improving IoT Security via Formalized Protocol Customization**<br/>
-Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu, and Mathias Payer. In Proceedings of the 31st USENIX Security Symposium (Security), 2022
+Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu, and Mathias Payer. In Proceedings of the USENIX Security Symposium (Security), 2022
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-profactory/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/profactory.pdf)<br/>
 
 **LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks**<br/>
-**Jianliang Wu**, Ruoyu Wu, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the 30th USENIX Security Symposium (Security), 2021
+**Jianliang Wu**, Ruoyu Wu, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the USENIX Security Symposium (Security), 2021
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-lightblue/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/lightblue.pdf)[[Talk]](https://allenjlw.github.io/talks/lightblue_talk/)[[Code]](https://github.com/purseclab/lightblue)[[Poster]](https://raw.githubusercontent.com/allenjlw/allenjlw.github.io/master/pdfpapers/lbposter.pdf)<br/>
 
 **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**<br/>
@@ -37,11 +41,11 @@ Fei Wang, **Jianliang Wu**, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu,
 [[Myce.com]](https://www.myce.com/news/blesa-bluetooth-flaw-affects-iot-devices-94440/) and many more.
 
 **BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks**<br/>
-**Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
+**Jianliang Wu**, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of the International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-blueshield/)[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blueshield.pdf)[[Talk]](https://allenjlw.github.io/talks/blueshield_talk/)[[Code]](https://github.com/allenjlw/BlueShield)
 
 **All your sessions are belong to us: Investigating authenticator leakage through backup channels on android**<br/>
-Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and Shanqing Guo. In 2015 20th International Conference on Engineering of Complex Computer Systems (ICECCS), 2015.
+Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and Shanqing Guo. In Proceedings of the International Conference on Engineering of Complex Computer Systems (ICECCS), 2015.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-all-your/)[[PDF]](https://ieeexplore.ieee.org/abstract/document/7384230)<br/>
 <span style="color:red">Best Paper Award</span>
 
@@ -50,7 +54,7 @@ Guangdong Bai, Jun Sun, **Jianliang Wu**, Quanqi Ye, Li Li, Jin Song Dong, and S
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-paddyfrog/)[[PDF]]((https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1179))
 
 **Automatically Detecting Ssl Error-Handling Vulnerabilities in Hybrid Mobile Web Apps**<br/>
-Chaoshun Zuo, **Jianliang Wu**, and Shanqing Guo. In Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS), 2015.
+Chaoshun Zuo, **Jianliang Wu**, and Shanqing Guo. In Proceedings of the ACM Symposium on Information, Computer and Communications Security (ASIACCS), 2015.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-ssl-error/)[[PDF]](https://dl.acm.org/citation.cfm?id=2714583)
 
 **TrustFound: Towards a Formal Foundation for Model Checking Trusted Computing Platforms**<br/>
