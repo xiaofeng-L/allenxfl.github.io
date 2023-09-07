@@ -6,7 +6,7 @@ author_profile: true
 ---
 **SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth (To appear)**<br/>
 **Jianliang Wu**, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the IEEE Symposium on Security and Privacy (S&P), 2024
-[[BibTex]]()[[PDF]](https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/btsok.pdf)<br/>
+[[BibTex]]()[[PDF]](https://allenjlw.github.io/pdfpapers/btsok.pdf)<br/>
 
 **Are You Spying on Me? Large‑Scale Analysis on IoT Data Exposure through Companion Apps**<br/>
 Yuhong Nan, Xueqiang Wang, Luyi Xing, Xiaojing Liao, Ruoyu Wu, **Jianliang Wu**, Yifan Zhang, and XiaoFeng Wang. In Proceedings of the USENIX Security Symposium (Security), 2023
