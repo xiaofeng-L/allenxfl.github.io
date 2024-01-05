@@ -15,10 +15,13 @@ Education
 ======
 * B.S. Computer Science, Shandong University, 2012
 * M.S. Computer Science, Shandong University, 2015
-* Ph.D. Computer Science, Purdue University, 2023 (expected)
+* Ph.D. Computer Science, Purdue University, 2023
 
 Work experience
 ======
+* 2024 - present: Assistant Professor
+  * Simon Fraser University
+
 * 2012 - 2015: Research Assistant
   * Shandong University
   * Supervisor: Dr. Shanqing Guo
