@@ -22,20 +22,17 @@ Work experience
 * 2024 - present: Assistant Professor
   * Simon Fraser University
 
-* 2012 - 2015: Research Assistant
-  * Shandong University
-  * Supervisor: Dr. Shanqing Guo
-
-* Summer 2014: Research Assistant
-  * National University of Singapore
-  * Supervisor: Dr. Jin Song Dong
+* 2017 - 2023: Research Assistant
+  * PurSec Lab, Purdue University
 
 * 2015 - 2017: Senior Staff Member
   * People's Bank of China, Jinan Branch
 
-* 2017 - now: Research Assistant
-  * PurSec Lab, Purdue University
-  * Supervisor: Dr. Dongyan Xu and Dr. Antonio Bianchi
+* 2012 - 2015: Research Assistant
+  * Shandong University
+
+* Summer 2014: Research Assistant
+  * National University of Singapore
 
 <!--Skills-->
 <!--======-->
