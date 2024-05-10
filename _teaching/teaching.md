@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Instructor
+CMPT789 Applied Crypto, Fall 2024
+
+CMPT471 Networking II, Spring 2024
+
 ## Guest lecture
 **Software Security** (Undergraduate level)<br/>
 Invited by Dr. Antonio Bianchi, 2022
