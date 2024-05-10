@@ -5,8 +5,9 @@ permalink: /service/
 author_profile: true
 ---
 
-PC member
+TPC member
 ======
+RAID'2024, IEEE MASS'2024, SmartSP'2024 <br/>
 IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA), 2022 <br/>
 CSAW Applied Research Competition, 2021
 
