@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations (To appear)**<br/>
 **Jianliang Wu**, Patrick Traynor, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the USENIX Security Symposium (Security), 2024
-[[BibTex]]()[[PDF]]()<br/>
+[[BibTex]]()[[PDF]](https://allenjlw.github.io/pdfpapers/bleprivacy.pdf)<br/>
 
 **SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth (To appear)**<br/>
 **Jianliang Wu**, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the IEEE Symposium on Security and Privacy (S&P), 2024
