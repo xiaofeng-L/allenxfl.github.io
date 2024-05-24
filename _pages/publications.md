@@ -8,7 +8,7 @@ author_profile: true
 **Jianliang Wu**, Patrick Traynor, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the USENIX Security Symposium (Security), 2024
 [[BibTex]]()[[PDF]](https://allenjlw.github.io/pdfpapers/bleprivacy.pdf)<br/>
 
-**SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth (To appear)**<br/>
+**SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth**<br/>
 **Jianliang Wu**, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the IEEE Symposium on Security and Privacy (S&P), 2024
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-btsok/)[[PDF]](https://allenjlw.github.io/pdfpapers/btsok.pdf)<br/>
 

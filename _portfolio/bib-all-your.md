@@ -10,7 +10,7 @@ excerpt: "All Your Sessions Are Belong to Us: Investigating Authenticator Leakag
  title = {All Your Sessions Are Belong to Us: Investigating Authenticator Leakage Through Backup Channels on Android},
  booktitle = {Proceedings of the 2015 20th International Conference on Engineering of Complex Computer Systems (ICECCS)},
  year = {2015},
- pages = {60--69},,
+ pages = {60--69},
  publisher = {IEEE Computer Society},
  address = {Washington, DC, USA},
 }
