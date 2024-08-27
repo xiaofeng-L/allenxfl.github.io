@@ -5,15 +5,16 @@ permalink: /service/
 author_profile: true
 ---
 
-TPC member
+Conference TPC member
 ======
 AsiaCCS'2025, USENIX Security'2025 <br/>
 RAID'2024, IEEE MASS'2024, SmartSP'2024 <br/>
 IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA), 2022 <br/>
 CSAW Applied Research Competition, 2021
 
-Reviewer
+Journal Reviewer
 ======
+IEEE Internet of Things Journal, 2024 <br/>
 IEEE Transactions on Dependable and Secure Computing, 2022 <br/>
 Journal of Information Security and Applications, 2022 <br/>
 IEEE Network Magazine, 2021 <br/>
